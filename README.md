@@ -10,4 +10,5 @@ DM sets names for each character, connected to bluetooth mini statues and/or hol
       - PLayers may set their own colors
       - Must work off bluetooth / rechargeable batteries?
         - Batteries should be replaceable / have recharge port
+       
      
