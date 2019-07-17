@@ -8,4 +8,4 @@ DM sets names for each character, connected to bluetooth mini statues and/or hol
   - Each player has a token which lights up on their turn
       - Tokens can be programmed to occur in any order as set by DM
       - PLayers may set their own colors
-      - Must work off bluetooth
+      - Must work off bluetooth / rechargeable batteries?
